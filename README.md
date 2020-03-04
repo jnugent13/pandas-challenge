@@ -5,7 +5,7 @@ Well done! Having spent years analyzing financial records for big banks, you've 
 
 <p>As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.</p>
 
-#### Observable Trends ####
+### Observable Trends ###
 
 <p>Students at charter schools have higher average reading and math scores than students at district schools. The average math score at charter schools is about 6.5 points higher than the average math score at district schools, and the average reading score is about 3 points higher at charter schools than the average reading score at district schools. Furthermore, charter schools also have a higher percentage of students passing math and reading than district schools. About 17% more students are passing math at charter schools compared to district schools, and about 16% more students are passing reading at charter schools than at district schools.</p>
 
